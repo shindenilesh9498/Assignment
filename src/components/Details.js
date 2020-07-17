@@ -15,7 +15,7 @@ const useStyles = makeStyles((theme) => ({
     },
     buttons: {
         display: 'flex',
-        jbuttonsustifyContent: 'flex-end',
+        justifyContent: 'flex-end',
         marginTop:"40px"
     },
 }));
